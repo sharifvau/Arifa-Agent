@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer glow circle -->
+    <path
+        android:fillColor="#3300E5FF"
+        android:pathData="M54,54m-38,0a38,38 0 1,1 76,0a38,38 0 1,1 -76,0" />
+    <!-- Middle sphere -->
+    <path
+        android:fillColor="#80FF4081"
+        android:pathData="M54,54m-26,0a26,26 0 1,1 52,0a26,26 0 1,1 -52,0" />
+    <!-- Core orb -->
+    <path
+        android:fillColor="#FFFFB300"
+        android:pathData="M54,54m-16,0a16,16 0 1,1 32,0a16,16 0 1,1 -32,0" />
+    <!-- Bright center -->
+    <path
+        android:fillColor="#FFF8F9FA"
+        android:pathData="M54,54m-6,0a6,6 0 1,1 12,0a6,6 0 1,1 -12,0" />
+</vector>

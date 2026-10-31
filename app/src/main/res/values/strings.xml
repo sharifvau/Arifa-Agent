@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ARIFA AI</string>
+    <string name="app_tagline">Your Multilingual Personal AI Companion</string>
+
+    <!-- Voice states -->
+    <string name="state_idle">Idle</string>
+    <string name="state_listening">Listening...</string>
+    <string name="state_thinking">Thinking...</string>
+    <string name="state_speaking">Speaking...</string>
+    <string name="state_connecting">Connecting...</string>
+    <string name="state_error">Connection Error</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_talk">Talk Orb</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Notification -->
+    <string name="notification_channel_name">Voice Session</string>
+    <string name="notification_channel_desc">Active real-time voice session with Arifa</string>
+    <string name="notification_title">Arifa is listening</string>
+    <string name="notification_text">Tap to return to conversation or stop session.</string>
+    <string name="action_stop">Stop</string>
+</resources>
